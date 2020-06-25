@@ -1,0 +1,9 @@
+.idea
+Thumbs.db*
+.DS_Store*
+HELP.md
+
+*.exe
+*.dll
+*.so
+*.dylib
