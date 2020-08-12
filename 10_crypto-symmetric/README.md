@@ -76,7 +76,7 @@ hashcat [options] hash [dictionary]
 
 ### Задание
 
-Каким-то образом у вас оказался хэш пароля. Вот такой: `9db53dec00fa3a8c06fc77a34e31225df58ae84cf371d9e75ae3b7defd4bfbb3`.
+Каким-то образом у вас оказался хэш пароля. Вот такой: `5693299e0bbe87f327caa802008af432fbe837976b1232f8982d3e101b5b6fab`.
 
 Что нужно сделать: вам нужно попробовать по длине хэша угадать его тип (это будет один из тех, что упоминался на лекции).
 
@@ -88,7 +88,7 @@ hashcat [options] hash [dictionary]
 
 И запустить hashcat для подбора пароля в формате:
 
-`hashcat -m <X> 9db53dec00fa3a8c06fc77a34e31225df58ae84cf371d9e75ae3b7defd4bfbb3 wordlist.txt`
+`hashcat -m <X> 5693299e0bbe87f327caa802008af432fbe837976b1232f8982d3e101b5b6fab wordlist.txt`
 
 Где `<X>` это тип хэша, в соответствии с таблицей (т.е. для GOST R 34.11-2012 (Streebog) 256-bit, big-endian будет `11700`):
 
@@ -107,7 +107,7 @@ hashcat [options] hash [dictionary]
 
 А `wordlist.txt` - файл с самыми распространёнными паролями. Набор таких файлов вы можете найти по адресу https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials.
 
-Т.е. мы собираемся осуществить атаку по словарую.
+Т.е. мы собираемся осуществить атаку по словарю.
 
 <details>
 <summary>Подсказка</summary>
