@@ -271,8 +271,6 @@ gpg --import student.key
 <summary>Passphrase для student.key 😈</summary>
 
 Passphrase: `student`.
-</details>
-
 
 <details>
 <summary>Неправильная passphrase 😈?</summary>
@@ -283,11 +281,14 @@ Passphrase: `student`.
 
 <details>
 <summary>Импорт ключа с вводом passphrase</summary>
+
 ```shell script
-echo ыегвуте | gpg2 --batch --yes --import student.key
+echo ыегвуте | gpg --batch --yes --import student.key
 ```
+
 </details>
 
+</details>
 </details>
 
 #### Шаг 2. Убедитесь, что ключи импортированы
