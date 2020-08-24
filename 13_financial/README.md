@@ -58,7 +58,7 @@ openssl dgst -md5 file.txt
 Выглядит это следующим образом:
 
 ```shell script
-echo 'Netology' -n | openssl dgst -md5
+echo -n 'Netology' | openssl dgst -md5
 (stdin)= f9b9c75ad5aa4b6acd7cf3d1a282d5b1
 ```
 
