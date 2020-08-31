@@ -117,6 +117,35 @@ hashcat [options] hash [dictionary]
 
 В качестве ответа пришлите название функции хэширования и "угаданный" пароль.
 
+
+<details>
+<summary>Проблемы с hashcat?</summary>
+
+Для этого случая мы сделали для вас небольшую утилиту, которая также умеет "взламывать" пароли.
+
+Поддерживает она только те, что требуются в рамках данного ДЗ и располагается в каталоге assets:
+* [Windows x32](assets/cracker-x32.exe)
+* [Windows x64](assets/cracker-x64.exe)
+* [Linux x32](assets/cracker-x32.bin)
+* [Linux x64](assets/cracker-x64.bin)
+* [Mac OS](assets/icracker-x64.bin)
+
+Как запускать:
+1. Скачиваете исполняемый файл, а также словарь в один каталог, открываете в этом каталоге терминал
+1. Проверяете исполняемый файл на [VirusTotal](https://www.virustotal.com)
+1. В терминале запускаете `cracker <тип хэша> <хэш> <имя файла словаря>`:
+    1. Для Win32 CMD: .\cracker-x32.exe 0 5f4dcc3b5aa765d61d8327deb882cf99 million.txt
+    1. Для Win64 CMD: .\cracker-x64.exe 0 5f4dcc3b5aa765d61d8327deb882cf99 million.txt
+    1. Для Win32 PowerShell: .\cracker-x32.exe 0 5f4dcc3b5aa765d61d8327deb882cf99 million.txt
+    1. Для Win64 PowerShell: .\cracker-x64.exe 0 5f4dcc3b5aa765d61d8327deb882cf99 million.txt
+    1. Для Linux32: chmod +x ./cracker-x32.bin && ./cracker-x32.bin 0 5f4dcc3b5aa765d61d8327deb882cf99 million.txt
+    1. Для Linux64: chmod +x ./cracker-x64.bin && ./cracker-x64.bin 0 5f4dcc3b5aa765d61d8327deb882cf99 million.txt
+    1. Для MacOS: chmod +x ./icracker-x64.bin && ./icracker-x64.bin 0 5f4dcc3b5aa765d61d8327deb882cf99 million.txt
+1. Ждёте результата работы программы:
+    * `Cracked: password` (хэш "взломан", `password` - то, что вам нужно)
+    * `Not cracked` (хэш не "взломан", вы выбрали неверный алгоритм хэширования, ошиблись в написании хэша или файл словаря не содержит нужного слова)
+</details>
+
 ## Задача №2 VeraCrypt
 
 ### Справка 
