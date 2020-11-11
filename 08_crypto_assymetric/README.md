@@ -181,9 +181,9 @@ openssl pkeyutl -decrypt -inkey private.key -in cypher.txt -out decrypted.txt
 ### Результат
 
 В качестве результата пришлите:
-1. Публичный и приватный ключ
-1. Passphrase
-1. Зашифрованный файл
+1. Публичный и приватный ключ (`public.key` и `private.key`)
+1. Passphrase (строкой)
+1. Зашифрованный файл (`cypher.txt`)
 
 ## Задача GnuPG: подпись сообщения
 
