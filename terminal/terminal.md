@@ -2,7 +2,6 @@
 
 * [Введение](#введение)
 * [Открытие терминала](#открытие-терминала)
-	* [GoLand](#goland)
 	* [Linux](#linux)
 	* [Mac](#mac)
 	* [Windows (Git Bash)](#windows-git-bash)
