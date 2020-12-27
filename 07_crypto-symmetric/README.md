@@ -112,7 +112,7 @@ hashcat [options] hash [dictionary]
 
 Т.е. мы собираемся осуществить атаку по словарю.
 
-Мы рекомендуем вам использовать [`Common-Credentials/10-million-password-list-top-100000.txt`](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt).
+Мы рекомендуем вам использовать [`Common-Credentials/10-million-password-list-top-100000.txt`](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt).
 <details>
 
 <summary>Проблемы с hashcat?</summary>
