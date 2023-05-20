@@ -24,9 +24,8 @@
 * Любые вопросы по решению задач задавайте в чате учебной группы
 
 ## Инструменты
-[Методика оценка угроз безопасности от ФСТЭК России от 05 февраля 2021 г.](https://fstec.ru/tekhnicheskaya-zashchita-informatsii/dokumenty/114-spetsialnye-normativnye-dokumenty/2170-metodicheskij-dokument-utverzhden-fstek-rossii-5-fevralya-2021-g) 
+[Методика оценка угроз безопасности от ФСТЭК России от 05 февраля 2021 г.](https://u.netology.ru/backend/uploads/lms/attachments/files/data/54611/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%BE%D1%82_5_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F_2021_%D0%B3.__1_.pdf)
 
-## Задание
 Вы проанализировали активы организации, которые подлежат защите. Теперь настало время разработать модель угроз информационной безопасности для одного из активов. 
 
 ### Ответьте на следующие вопросы: 
