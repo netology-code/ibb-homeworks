@@ -32,4 +32,5 @@
 
 ## Дополнительные материалы
 
+[Разбор кейса "Как определить активы организации в контексте ИБ"](https://github.com/netology-code/ibb-homeworks/blob/IBB-33/casestudy_company%20assets.md)
 [Руководство по работе в терминале](terminal)
