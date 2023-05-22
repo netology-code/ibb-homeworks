@@ -14,7 +14,7 @@
 
 2.3. [x] [Классификация и категоризация информации, информационных систем](04_classification)
 
-2.4. [x] [Лицензирование, аттестация, сертификация](05_certification)
+2.4. [x] [Лицензирование, аттестация, сертификация](https://github.com/netology-code/ibb-homeworks/blob/IBB-33/05_certification/README.md)
 
 2.5. [x] [Моделирование угроз](06_threats)
 
