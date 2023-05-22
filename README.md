@@ -16,7 +16,7 @@
 
 2.4. [x] [Лицензирование, аттестация, сертификация](https://github.com/netology-code/ibb-homeworks/blob/IBB-33/05_certification/README.md)
 
-2.5. [x] [Моделирование угроз](06_threats)
+2.5. [x] [Моделирование угроз](https://github.com/netology-code/ibb-homeworks/blob/IBB-33/06_threats/README.md)
 
 ## Блок 3. Криптографическая защита информация
 
