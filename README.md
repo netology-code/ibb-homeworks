@@ -8,7 +8,7 @@
 
 ## Блок 2. Нормативное регулирование информационной безопасности
 
-2.1. [x] [Аудит информационной безопасности](https://github.com/netology-code/ibb-homeworks/tree/IBB-26/03_audit_IS)
+2.1. [x] [Аудит информационной безопасности](https://github.com/netology-code/ibb-homeworks/blob/IBB-33/03_audit_IS/README.md)
 
 2.2. [x] [Нормативное регулирование](03_regulation)
 
