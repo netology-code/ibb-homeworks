@@ -64,7 +64,7 @@
 
 Вы устроились на работу в организацию, и сегодня первый рабочий день. Руководитель поставил перед вами задачу — провести аудит информационной безопасности предприятия.
 
-Изучите [Устав ООО «Компания»](https://docs.google.com/document/d/1fd6-M4KyygFYx1dWEOxWcvr6ZN6FMHL5vLjzP_L90GQ/edit?usp=share_link).
+Изучите [Устав ООО «Компания»](https://static.beeline.ru/upload/contents/297/PJSC_VimpelCom_Charter_14.10.2021.pdf).
 
 #### Ответьте на следующие вопросы
 
