@@ -98,7 +98,7 @@ Base64 - это кодировка, используемая для кодиро
 
 Но, если не нашли, то в [Android](assets/android.pdf) на 36-ой странице, в [iOS](assets/ios.pdf) на 61.
 
-Отдельно есть [пошаговая инструкция](https://oplata.tinkoff.ru/develop/api/request-sign/).
+Есть инструкции: [Первая](https://web.archive.org/web/20220516235607/https://oplata.tinkoff.ru/develop/api/request-sign/), [Вторая](https://www.tinkoff.ru/kassa/dev/payments/#section/Podpis-zaprosa)
 </details>
 
 В качестве результата пришлите токен для указанного документа.
