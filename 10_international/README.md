@@ -27,7 +27,7 @@
 
 **Важно**: это необязательная задача, её (не)выполнение не влияет на получение зачёта по ДЗ.
 
-Организация [CIS](https://www.cisecurity.org) предоставляет возможность скачать и просмотреть [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/):
+Файлы CIS Benchmarks вы скачиваете в личном кабинете, в задании это пункт 1:
 
 ![](pic/benchmarks-list.png)
 
