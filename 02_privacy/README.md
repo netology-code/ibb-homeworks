@@ -35,7 +35,7 @@
 ### Дополнительные материалы для выполнения задания
 
 
-1. [Текст рекомендаций Роскомнадзора](https://web.archive.org/web/20240324204350/https://rkn.gov.ru/personal-data/p908/).
+1. [Текст рекомендаций Роскомнадзора](https://old.rkn.gov.ru/personal-data/p908/).
 1. [Политика обработки ПДн №1](assets/beeline.pdf).
 1. [Политика обработки ПДн №2](assets/megafon.pdf).
 
