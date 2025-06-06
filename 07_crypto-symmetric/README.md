@@ -56,7 +56,7 @@ hashcat --help
 
 Архив упакован с помощью архиватора [7zip](https://www.7-zip.org/download.html), поэтому, возможно, вам придётся установить и его.
 
-Распакуйте архив в каталог на вашем компьютере и откройте терминал каталоге, в котором расположены файлы `hashcat.bin` и `hashcat.exe` (см. [руководство по терминалу](https://github.com/netology-code/ibb-homeworks/blob/IBB-29/terminal/terminal.md)).
+Распакуйте архив в каталог на вашем компьютере и откройте терминал каталоге, в котором расположены файлы `hashcat.bin` и `hashcat.exe` (см. [руководство по терминалу](https://github.com/netology-code/ibb-homeworks/blob/IBB-29/terminal/terminal.md)). 
 
 Для Linux необходимо запускать в терминале hashcat командой `./hashcat.bin` (находясь в том же каталоге), в Windows командой `.\hashcat.exe` (находясь в том же каталоге), а в Mac просто `hashcat` (при этом никакой архив с hashcat вам не нужен).
 
@@ -112,7 +112,7 @@ hashcat [options] hash [dictionary]
 
 Т.е. мы собираемся осуществить атаку по словарю.
 
-Мы рекомендуем вам использовать [`Common-Credentials/10-million-password-list-top-100000.txt`](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt).
+Мы рекомендуем вам использовать [`Common-Credentials/10-million-password-list-top-100000.txt`](https://gitlab.com/kalilinux/packages/seclists/-/blob/kali/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt).
 <details>
 
 <summary>Проблемы с hashcat?</summary>
