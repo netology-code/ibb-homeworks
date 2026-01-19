@@ -111,7 +111,6 @@ hashcat [options] hash [dictionary]
 
 Т.е. мы собираемся осуществить атаку по словарю.
 
-Мы рекомендуем вам использовать [`Common-Credentials/10-million-password-list-top-100000.txt`](https://gitlab.com/kalilinux/packages/seclists/-/blob/kali/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt).
 <details>
 
 <summary>Проблемы с hashcat?</summary>
