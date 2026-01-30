@@ -33,6 +33,7 @@
 #### Windows
 
 Пользователем Windows мы предлагаем воспользоваться возможностями проекта [Cygwin](https://www.cygwin.com), который предоставляет набор инструментов из мира Linux для ОС Windows.
+-Если файл Cygwin не скачивается с сайта, то можете попробовать его скачать [здесь](https://disk.360.yandex.ru/d/zJi0tXbIbz8gsg)
 
 <details>
 <summary>Инструкция по установке</summary>
