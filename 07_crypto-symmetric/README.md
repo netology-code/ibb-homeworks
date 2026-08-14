@@ -31,6 +31,11 @@
 Для установки достаточно скачать архив с официального сайта:
 
 ![](pic/hashcat.png)
+Если не получается с официального сайта — скачиваем тут:
+
+[из облака](https://cloud.mail.ru/public/ZGBn/CckR6pYcR)
+
+[с диска Нетологии](https://disk.360.yandex.ru/d/YV8MNkE0aWefGg)
 
 <details>
 <summary>Для счастливых обладателей Mac</summary>
@@ -154,6 +159,13 @@ hashcat [options] hash [dictionary]
 [Скачать VeraCrypt](https://www.veracrypt.fr/en/Downloads.html) можно с официальной страницы (не качайте из неизвестных источников).
 
 ![](pic/veracrypt.png)
+
+Если не получается скачать с официального сайта — скачиваем тут:
+
+[из облака](https://cloud.mail.ru/public/ZGBn/CckR6pYcR)
+
+[с диска Нетологии](https://disk.360.yandex.ru/d/cH5QjUHNOpm3oA)
+
 
 ### Установка
 
